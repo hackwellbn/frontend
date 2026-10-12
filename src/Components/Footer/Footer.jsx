@@ -22,6 +22,7 @@ const Footer = () => {
       title: "Company",
       links: [
         { label: "About", href: "https://about.softnetkenya.com" },
+        { label: "Philosophy", href: "https://about.softnetkenya.com/philosophy" },
         { label: "Careers", href: "https://careers.softnetkenya.com" },
         { label: "Contact", to: "/contact" },
       ],

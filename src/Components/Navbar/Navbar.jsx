@@ -44,6 +44,11 @@ function Navbar() {
           Company
         </a>
       </li>
+      <li>
+        <a href="https://about.softnetkenya.com/philosophy" className="site-navbar-link" onClick={closeMenu}>
+          Philosophy
+        </a>
+      </li>
     </>
   );
 
